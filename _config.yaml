@@ -1,0 +1,10 @@
+title: Sharvil Katariya
+description: CS grad @ SBU | Microsoft | VMware | Samsung
+logo: /assets/images/favicon.ico
+permalink: pretty
+exclude: [".gitignore",
+            "Gemfile"]
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
